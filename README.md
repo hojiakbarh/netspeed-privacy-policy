@@ -2,7 +2,7 @@
 
 **Last updated: April 14, 2026**
 **Developer: HojiakbarDev**
-**Contact: netspeed.app@gmail.com**
+**Contact: hojiakbarpy@gmail.com**
 
 ---
 
